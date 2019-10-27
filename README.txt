@@ -1,0 +1,1 @@
+Simple java example working with an Array to mimic a stack.
